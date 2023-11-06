@@ -21,5 +21,3 @@ Find all the bugs one by one in order to restore the app, with 3 pages : Home, A
 ## Author
 
 All credits goes to [@jujuck](https://github.com/jujuck) ❤️
-
-link :
